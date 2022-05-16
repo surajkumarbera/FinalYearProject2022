@@ -7,9 +7,6 @@
     - clone the repo
     - Inside the repo Create a virtual-environment called env-ldd
     - activate the virtual environment
-    - Install following packages inside the virtual-environment using pip
-        1. django
-        2. numpy
-        3. opencv-python
-        4. tensorflow
+    - Install packages inside the virtual-environment using pip
+        - pip install -r requirements.txt
     - run the server using manage.py
