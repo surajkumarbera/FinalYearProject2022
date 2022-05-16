@@ -11,4 +11,6 @@
         - pip install -r requirements.txt
     - run the server using manage.py
 
-### Create model - https://github.com/surajkumarbera/model-using-CNN.git
+### Create Model - https://github.com/surajkumarbera/model-using-CNN.git
+
+### App Test Data - https://drive.google.com/file/d/1waolQCBzdpZeWkbmA0Ub5nvBhCwpM56R/view?usp=sharing
