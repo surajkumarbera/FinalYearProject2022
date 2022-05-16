@@ -44,7 +44,7 @@ def predictTomatoDisease(request):
 
 
 def tomato(test_data):
-    print("########### Tomato ###########")
+    #print("########### Tomato ###########")
     model_path = os.path.join(
         os.getcwd(), 'app_predict', 'models', 'tomato.h5')  # model name path
 
@@ -117,7 +117,7 @@ def tomato(test_data):
 
 
 def rice(test_data):
-    print("########### Rice ###########")
+    #print("########### Rice ###########")
     model_path = os.path.join(
         os.getcwd(), 'app_predict', 'models', 'rice.h5')  # model name path
 
