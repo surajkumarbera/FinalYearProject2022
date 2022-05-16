@@ -10,3 +10,5 @@
     - Install packages inside the virtual-environment using pip
         - pip install -r requirements.txt
     - run the server using manage.py
+
+## Create model - https://github.com/surajkumarbera/model-using-CNN.git
